@@ -18,7 +18,7 @@ Proyecto desarrollado como **Trabajo Final Integrador** del curso
 **Iniciación a la Programación en Python — Talento Tech**.
 
 
-<h3>📚 Índice<h3>
+<h5>📚 Índice<h5>
 
 - [Descripción General](#descripción-general)
 - [Requisitos](#requisitos)
